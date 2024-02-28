@@ -23,3 +23,6 @@
 - Alphanumeric string sort
     - alphanumeric-string-sort/alphanumeric-string-sort.js
     - alphanumeric-string-sort/alphanumeric-string-sort.test.js
+- Balanced parentheses
+    - balanced-parentheses/balanced-parentheses.js
+    - balanced-parentheses/balanced-parentheses.test.js
