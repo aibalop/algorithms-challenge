@@ -29,3 +29,6 @@
 - Tic Tac Toe Winner
     - tic-tac-toe-winner/tic-tac-toe-winner.js
     - tic-tac-toe-winner/tic-tac-toe-winner.test.js
+- Pascals Triangle
+    - pascals-triangle/pascals-triangle.js
+    - pascals-triangle/pascals-triangle.test.js
